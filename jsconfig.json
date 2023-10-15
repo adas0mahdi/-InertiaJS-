@@ -1,0 +1,9 @@
+{
+    "compiloerOptions": {
+        "baseurl": ".",
+        "path": {
+            "@/*": ["resurces/js/*"]
+        }
+
+    }
+}
